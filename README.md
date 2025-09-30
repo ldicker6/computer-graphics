@@ -80,7 +80,10 @@ Example 3: Rotate with Bilinear Sampling
 |----------|-------|
 | ![Original](statue_of_liberty.bmp) | ![Edges](edges_liberty.bmp) |
 
-### Morphing Demo
+### Morphing Demo (Michael Jackson Inspiration)
+
+This project implements **Beier–Neely morphing**, the classic line-segment–based algorithm behind Michael Jackson’s *Black or White* (1991) music video- one of the first landmark uses of digital morphing in entertainment. I recreated the effect by smoothly transforming a portrait of a girl into a portrait of a boy, demonstrating warping, cross-dissolving, and practical graphics pipeline design.
+
 ![Morph](morph.gif)
 
 ---
