@@ -68,7 +68,7 @@ Example 3: Rotate with Bilinear Sampling
 
 ---
 
-## 🎨 Example Outputs
+## Example Outputs
 
 ### Input vs. Swirl
 | Original | Swirl |
@@ -95,13 +95,6 @@ This project implements **Beier–Neely morphing**, the classic line-segment–b
 - Gained hands-on experience with **linear algebra in graphics**  
 - Practiced **modular design** for extensible filters  
 
----
-
-## 🔮 Future Extensions
-- GUI for interactive editing  
-- Export to video formats (`.mp4`) instead of GIF  
-- Automatic feature detection with **OpenCV**  
-- Multithreaded filters with **OpenMP** for speed  
 
 ---
 
@@ -109,5 +102,13 @@ This project implements **Beier–Neely morphing**, the classic line-segment–b
 This project highlights my ability to:
 - Translate **theory into practice** (graphics, linear algebra, algorithms)  
 - Work at the **systems level** (manual memory, Makefiles, debugging pipelines)  
-- Produce **visual, verifiable results** that showcase both technical skill and creativity  
+- Produce **visual, verifiable results** that showcase both technical skill and creativity
+
+---
+
+## 🔮 Future Extensions
+- GUI for interactive editing  
+- Export to video formats (`.mp4`) instead of GIF  
+- Automatic feature detection with **OpenCV**  
+- Multithreaded filters with **OpenMP** for speed  
 
