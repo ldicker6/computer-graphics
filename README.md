@@ -88,7 +88,7 @@ This project implements **Beier–Neely morphing**, the classic line-segment–b
 
 ---
 
-## 💡 Skills Gained
+## Skills Gained
 - Built a **graphics pipeline** from scratch  
 - Implemented **classic image processing algorithms**  
 - Strengthened **C++ debugging, memory handling, and performance awareness**  
@@ -98,7 +98,7 @@ This project implements **Beier–Neely morphing**, the classic line-segment–b
 
 ---
 
-## 🧑‍💻 Why This Project Matters
+## Why This Project Matters
 This project highlights my ability to:
 - Translate **theory into practice** (graphics, linear algebra, algorithms)  
 - Work at the **systems level** (manual memory, Makefiles, debugging pipelines)  
@@ -106,7 +106,7 @@ This project highlights my ability to:
 
 ---
 
-## 🔮 Future Extensions
+## Future Extensions
 - GUI for interactive editing  
 - Export to video formats (`.mp4`) instead of GIF  
 - Automatic feature detection with **OpenCV**  
