@@ -70,10 +70,15 @@ Example 3: Rotate with Bilinear Sampling
 
 ## 🎨 Example Outputs
 
-### Input vs. Edge Detection
-| Original | Edges |
+### Input vs. Swirl
+| Original | Swirl |
 |----------|-------|
-| ![Original](couple0.bmp) | ![Edges](warped0.bmp) |
+| ![Original](chess_board.bmp) | ![Edges](chess_board_fun.bmp) |
+
+### Input vs. Edge Detection
+| Original | Edge Detect |
+|----------|-------|
+| ![Original](statue_of_liberty.bmp) | ![Edges](edges_liberty.bmp) |
 
 ### Morphing Demo
 ![Morph](morph.gif)
