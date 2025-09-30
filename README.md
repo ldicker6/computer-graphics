@@ -30,7 +30,7 @@ I developed this project as part of JHU’s Computer Graphics course, but I appr
 - **Advanced Effects**
   - Edge detection (3×3 kernels)
   - Gaussian blur
-  - Fun warp filters (fisheye, swirl, bulge)
+  - Fun warp filters like swirl
   - Beier–Neely morphing (feature-based image metamorphosis)  
 
 ---
